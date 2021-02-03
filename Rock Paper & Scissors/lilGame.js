@@ -9,7 +9,7 @@ const CHOICES = [{
     },
     {
         name: 'paper',
-        emoji: '🖐',
+        emoji: '✋',
         beats: 'rock'
     },
     {
